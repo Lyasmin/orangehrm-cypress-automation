@@ -27,12 +27,12 @@ cypress.config.js
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Lyasmin/orangehrm-cypress-automation
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd folder-name
+cd orangehrm-cypress-automation
 ```
 
 3. Install dependencies:
